@@ -8,4 +8,4 @@ It is based on [`readytalk/nodejs-runtime`](https://index.docker.io/u/readytalk/
 
 - Run the following command
 
-        docker run -p 8080 readytalk/nodejs-hello
+        docker run -p 8080:8080 readytalk/nodejs-hello
